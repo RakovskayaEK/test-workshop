@@ -1,3 +1,4 @@
 some text
-changes from <master>
+changes from <master> - new changes!!
+
 
