@@ -1,4 +1,7 @@
 some text
-changes from <master> - new changes!!
+changes from <master> 
+changes from <first>
+text from main:  new changes!!
+
 
 
